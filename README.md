@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm Matteo 👋
+This is where I have fun and relax in coding...mostly breaking things :rofl:
+
+- 🌱 I’m currently learning GO
+- 💬 Ask me about C#, Kubernetes
+- ⚡ Fun fact: I love :cat: and video gaming
 
 <!--
 **matteogazzadi/matteogazzadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔗 **Connect with me**
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-gazzadi-poggioli)](https://www.linkedin.com/in/matteo-gazzadi-poggioli)
